@@ -2,7 +2,7 @@
  * ODE_RK4.cxx
  *
  *  Created on: Mar 14, 2019
- *      Author: sm2016
+ *      Author: Shahzaib Malik
  */
 
 #include <iostream>
